@@ -313,10 +313,12 @@ footer p{
         }
         .banner-content{
             width: 100%;
-            margin-left: 5%;
+            margin-left: 0%;
+            
         }
         .banner-content p{
             width: 80%;
+           
         }
         .banner-title{
             font-size: 28px;
@@ -342,8 +344,7 @@ footer p{
             padding: 13px;
             background-color: #FFFFFF;
             border-radius: 5px;
-            box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15); 
-             border: 1px solid black;
+            box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
         }
         .gear-img{
             width: 100%;
